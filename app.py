@@ -105,4 +105,4 @@ if st.button("Recommend Movies"):
     st.subheader("Recommended Movies")
 
     for movie in recommendations:
-        st.write("👉", movie)
+        st.write( movie)
