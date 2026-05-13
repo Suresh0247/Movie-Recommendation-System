@@ -2,11 +2,7 @@
 
 This project recommends movies based on similar genres using Machine Learning.
 
-The app is built using:
-- Python
-- Pandas
-- Scikit-learn
-- Streamlit
+
 
 
 
